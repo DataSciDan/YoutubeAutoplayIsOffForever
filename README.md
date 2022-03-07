@@ -7,11 +7,11 @@
 As soon as the entire page and all the content loads, YAiOF turns autoplay off. You can even watch it happen.
 
 Currently supported:
--Everthing Chromium-based, like Google Chrome and Brave Browser
+- Everthing Chromium-based, like Google Chrome and Brave Browser
 
 Soon supported:
--Everything Firefox-based, like Firefox, Tor Browser, and GNU IceCat
--Greasemonkey
+- Everything Firefox-based, like Firefox, Tor Browser, and GNU IceCat
+- Greasemonkey
 
 ## The YAiOF manifesto ##
 1. You, the user, decide how your browser behaves (See Freedom 0 of Free Software).
