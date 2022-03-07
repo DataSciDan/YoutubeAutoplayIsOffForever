@@ -3,6 +3,7 @@
         "name": "Youtube Autoplay: Always Set to Off",
         "version": "1.0",
         "description": "Whenever a new video page loads, turn autoplay to off",
+        "homepage_url": "https://github.com/DataSciDan/YoutubeAutoplayIsOffForever",
         "content_scripts": [{
                 "matches": ["*://*.youtube.com/watch*", "*://*.youtube-nocookie.com/watch*"],
                 "js": ["autoplayOff.js"],
