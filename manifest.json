@@ -1,6 +1,6 @@
 {
         "manifest_version": 3,
-        "name": "Youtube Autoplay: Always Set to Off",
+        "name": "Youtube Autoplay is Off Forever",
         "version": "1.0",
         "description": "Whenever a new video page loads, turn autoplay to off",
         "homepage_url": "https://github.com/DataSciDan/YoutubeAutoplayIsOffForever",
