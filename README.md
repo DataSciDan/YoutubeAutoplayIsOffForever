@@ -26,8 +26,8 @@ If you're going to use (with or without modification) the icons I made for this 
 >This picture is the icon for the browser addon Youtube Autoplay is Off Forever, which you can get it at https://github.com/DataSciDan/YoutubeAutoplayIsOffForever
 or something thereabouts.
 
-### Disclaimer ###
+## Disclaimer ##
 Yes, the name of this add-on includes the word, "forever." However, There is no way to make absolutely certain that this extension works literally forever. That's one of the reasons it's released under a free software license.
 
-### Notice ###
+## Notice ##
 Neither Youtube Autoplay is Off Forever nor it's developer are in anyway affiliate with YouTube, Google LLC, or Alphabet Inc.
