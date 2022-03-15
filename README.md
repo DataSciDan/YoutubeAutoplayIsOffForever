@@ -24,6 +24,7 @@ Because the code is so short and basically generic, I've published Youtube Autop
 
 If you're going to use (with or without modification) the icons I made for this addon, it would be very nice of you to attribute it this addon, unless doing so would be inconvenient. Just say
 >This picture is the icon for the browser addon Youtube Autoplay is Off Forever, which you can get it at https://github.com/DataSciDan/YoutubeAutoplayIsOffForever
+
 or something thereabouts.
 
 ## Disclaimer ##
